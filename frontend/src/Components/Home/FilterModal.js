@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import PropTypes from "prop-types" //importing for type-checking props
+import PropTypes from "prop-types"
 import "../../CSS/FilterModal.css"
 import "react-input-range/lib/css/index.css"
 import InputRange from "react-input-range"
